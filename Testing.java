@@ -6,5 +6,6 @@ import java.util.Scanner;
     String name = scanner.nextLine();
     System.out.println("Hello, " + name + " welcome");
 
+
   }
 }
